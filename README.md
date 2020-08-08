@@ -28,13 +28,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://g.recordit.co/brrI7tt5Xn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/VKrKvflJj6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
 ## Notes
 
-I added changes to the app. After trying to re-record the gif multiple times and googling, I still dont understand the sudden issue. Esicaplly since it was working before
+I added changes to the app. After trying to re-record the gif multiple times and googling, I still dont understand the sudden issue. Espically since it was working before. FIXED!
 
 ## License
 
