@@ -34,6 +34,8 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
+I added changes to the app. After trying to re-record the gif mutliple times, I still dont understand the issue. I will come back to it.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
