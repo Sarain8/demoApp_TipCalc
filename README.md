@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-I added changes to the app. After trying to re-record the gif multiple times and googling, I still dont understand the sudden issue. Espically since it was working before. FIXED!
+I added changes to the app. After trying to re-record the gif multiple times and googling, I still dont understand the sudden issue. Espically since it was working before. FIXED! Recoridng was too long.
 
 ## License
 
