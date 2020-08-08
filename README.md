@@ -28,17 +28,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://s3.amazonaws.com/img0.recordit.co/brrI7tt5Xn.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1596873319&Signature=%2BQYaBxtjlPZoLSmHdb5vXl12qZA%3Dn' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/brrI7tt5Xn' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
 ## Notes
 
-I added changes to the app. After trying to re-record the gif mutliple times, I still dont understand the issue. I will come back to it.
+I added changes to the app. After trying to re-record the gif multiple times and googling, I still dont understand the sudden issue. Esicaplly since it was working before
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Sami Arain]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
