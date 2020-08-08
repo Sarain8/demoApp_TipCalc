@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		49F6F00824DCB1B200E92305 /* tip.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tip.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		49F6F00824DCB1B200E92305 /* Tippy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tippy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49F6F00B24DCB1B200E92305 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		49F6F00D24DCB1B200E92305 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		49F6F00F24DCB1B200E92305 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -89,7 +89,7 @@
 		49F6F00924DCB1B200E92305 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				49F6F00824DCB1B200E92305 /* tip.app */,
+				49F6F00824DCB1B200E92305 /* Tippy.app */,
 				49F6F01E24DCB1B600E92305 /* tipTests.xctest */,
 				49F6F02924DCB1B600E92305 /* tipUITests.xctest */,
 			);
@@ -145,7 +145,7 @@
 			);
 			name = tip;
 			productName = tip;
-			productReference = 49F6F00824DCB1B200E92305 /* tip.app */;
+			productReference = 49F6F00824DCB1B200E92305 /* Tippy.app */;
 			productType = "com.apple.product-type.application";
 		};
 		49F6F01D24DCB1B600E92305 /* tipTests */ = {
@@ -440,8 +440,9 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = codepath.tip;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Tippy;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -457,8 +458,9 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = codepath.tip;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Tippy;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
