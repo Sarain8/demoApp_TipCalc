@@ -5,7 +5,7 @@
 
 Submitted by: **Mohammad (Sami) Arain**
 
-Time spent: **1** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## User Stories
 
@@ -28,13 +28,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/9oMHY0EPtX.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/O5ruGSldvMf' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
